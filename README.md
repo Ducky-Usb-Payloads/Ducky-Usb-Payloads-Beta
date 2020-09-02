@@ -1,2 +1,5 @@
 # Ducky-Usb-Payloads-Beta
-Beta For catdogmat/Ducky-Usb-Payloads
+
+## Info
+
+Beta For Ducky-Usb-Payloads/Ducky-Usb-Payloads
